@@ -1,4 +1,4 @@
-CodeSandbox демо: [https://codesandbox.io/s/github/kubk/vector-fp/tree/build](https://codesandbox.io/s/github/kubk/vector-fp/tree/build)
+[![Edit exercise](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/kubk/vector-fp/tree/build/?expanddevtools=1&hidenavigation=1&module=%2Findex.ts&view=editor)
 
 - `npm i`
 - `npx ts-node index.ts`
